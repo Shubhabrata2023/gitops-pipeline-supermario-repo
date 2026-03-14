@@ -1,3 +1,5 @@
+#Dockerfile contents
+
 # Use an official Tomcat image as a base image
 FROM tomcat:9.0.14-jre8-alpine
 
