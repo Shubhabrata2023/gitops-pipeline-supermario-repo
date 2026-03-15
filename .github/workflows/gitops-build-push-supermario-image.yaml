@@ -18,5 +18,5 @@ jobs:
 
       - name: Build and Push Docker Image
         run: |
-          docker build -t docker.io/raghuthesecurityexpert/supermariogitopsproject:1 .
-          docker push docker.io/raghuthesecurityexpert/supermariogitopsproject:1
+          docker build -t docker.io/shubhabrata2023/supermariogitopsproject:1 .
+          docker push docker.io/shubhabrata2023/supermariogitopsproject:1
